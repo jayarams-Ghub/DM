@@ -1,0 +1,10 @@
+eight	3
+five	5
+four	5
+nine	2
+one	4
+seven	3
+six	2
+ten	2
+three	1
+two	3
